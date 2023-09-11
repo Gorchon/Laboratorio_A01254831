@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 #programa
 for s in ["chema crack", "mundo", "!"]:
 print(s)
 #Esta es la sintaxis 
 for <variable> in <sequence>:
     <block of code>
+=======
+print("hello")
+print("segunda rama")
+>>>>>>> discard
