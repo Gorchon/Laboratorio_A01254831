@@ -1,1 +1,3 @@
-print("hello")
+#programa
+for s in ["chema crack", "mundo", "!"]:
+print(s)
